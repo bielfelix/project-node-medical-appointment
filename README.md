@@ -1,17 +1,17 @@
 # LangGraph Prompt Chaining Study
 
-A study project for building multi-step LLM workflows with LangChain and LangGraph.
+A technical implementation for building multi-step LLM workflows with LangChain and LangGraph.
 
 Despite the repository name, the current implementation is focused on a prompt-chaining article-generation workflow rather than a medical appointment application.
 
 ## Attribution
 
-This repository is based on course material from the Software Engineering with Applied AI program published by UNIPDS and Erick Wendel.
+This repository is based on source material from the Software Engineering with Applied AI program published by UNIPDS and Erick Wendel.
 
 Upstream material:
 https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-The package metadata and workflow originate from that course material. I keep the attribution explicit so the repository accurately represents its role as hands-on study.
+The package metadata and workflow originate from that source material. I keep the attribution explicit so the repository accurately represents its role as hands-on technical implementation.
 
 ## What the project demonstrates
 
@@ -28,7 +28,7 @@ The package metadata and workflow originate from that course material. I keep th
 
 The workflow generates and reviews technical article content through multiple steps.
 
-The implementation is useful for studying orchestration patterns, state transitions and structured AI workflows. It should not be interpreted as an original medical scheduling system.
+The implementation is useful for technical implementationing orchestration patterns, state transitions and structured AI workflows. It should not be interpreted as an original medical scheduling system.
 
 ## Requirements
 
