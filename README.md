@@ -11,7 +11,7 @@ This repository is based on source material from the Software Engineering with A
 Upstream material:
 https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-The package metadata and workflow originate from that source material. I keep the attribution explicit so the repository accurately represents its role as hands-on technical implementation.
+The package metadata and workflow originate from that source material. I keep the attribution explicit so the repository accurately represents its role as source-attributed technical implementation.
 
 ## What the project demonstrates
 
