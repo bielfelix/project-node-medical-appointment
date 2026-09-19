@@ -1,4 +1,4 @@
-# LangGraph Prompt Chaining Study
+# LangGraph Prompt Chaining Reference Implementation
 
 A technical implementation for building multi-step LLM workflows with LangChain and LangGraph.
 
@@ -28,7 +28,7 @@ The package metadata and workflow originate from that source material. I keep th
 
 The workflow generates and reviews technical article content through multiple steps.
 
-The implementation is useful for technical implementationing orchestration patterns, state transitions and structured AI workflows. It should not be interpreted as an original medical scheduling system.
+The implementation demonstrates orchestration patterns, state transitions and structured AI workflows. It should not be interpreted as an original medical scheduling system.
 
 ## Requirements
 
@@ -50,7 +50,7 @@ npm test
 
 ## Portfolio status
 
-This repository is kept as an educational project. It should not replace an original flagship project in the profile.
+This repository is retained as an externally sourced reference implementation. It is intentionally separated from original flagship work.
 
 
 ## License and distribution
