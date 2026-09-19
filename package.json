@@ -23,7 +23,7 @@
     "ollama"
   ],
   "author": "erickwendel",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "@langchain/core": "^1.1.19",
     "@langchain/openai": "^1.2.5",
@@ -36,5 +36,6 @@
   },
   "engines": {
     "node": ">=24.10.0"
-  }
+  },
+  "private": true
 }
